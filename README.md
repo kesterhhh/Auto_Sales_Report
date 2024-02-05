@@ -1,6 +1,6 @@
 # Vehicle Sales Performance Analysis
 
-![](Store-Cart.jpg)
+![](vehicle.jpg)
 
 ## Introduction
 This project involved using SQL and PowerBI to analyze data from the **Vehicle Sales** dataset and conduct a Sales Performance Analysis.
@@ -30,9 +30,7 @@ The database used for this project is a great resource for anyone looking to imp
 
 You can also interact with the interactive dashboard I designed at the end of this project [here](https://app.powerbi.com/view?r=eyJrIjoiNjQ0YmQzNGItYzUyZi00ODNmLWJiMjYtZmM5NjA0ZjA4NDA3IiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9).
 
-![](Store-Cart.jpg)
-
-## Features
+![](report.jpg)
 The dashboard provides a comprehensive view of the sales performance, including key metrics like Total Sales, Average Sales, Average Price for Each Sale, and Average Quantity Ordered. It also displays the top sale and order countries, sales trend over time, and product line distribution.
 
 ## Conclusion
