@@ -28,7 +28,7 @@ In this Sales Performance Analysis Report, I provided insights like:
 
 The database used for this project is a great resource for anyone looking to improve their data analysis skills. Working through the entire project phase, from data cleaning to visualization, can provide a comprehensive learning experience. If you’re interested in working on a similar project, you can find the dataset on Kaggle [here](https://www.kaggle.com/datasets/ddosad/auto-sales-data).
 
-You can also interact with the interactive dashboard I designed at the end of this project [here](https://app.powerbi.com/view?r=eyJrIjoiNjQ0YmQzNGItYzUyZi00ODNmLWJiMjYtZmM5NjA0ZjA4NDA3IiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9).
+You can also interact with the interactive dashboard I designed for this project [here](https://app.powerbi.com/view?r=eyJrIjoiNjQ0YmQzNGItYzUyZi00ODNmLWJiMjYtZmM5NjA0ZjA4NDA3IiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9).
 
 ![](report.jpg)
 The dashboard provides a comprehensive view of the sales performance, including key metrics like Total Sales, Average Sales, Average Price for Each Sale, and Average Quantity Ordered. It also displays the top sale and order countries, sales trend over time, and product line distribution.
