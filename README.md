@@ -3,7 +3,7 @@
 ![](vehicle.jpg)
 
 ## Introduction
-This project involved using SQL and PowerBI to analyze data from the **Vehicle Sales** dataset and conduct a Sales Performance Analysis.
+This project involved using SQL and Power BI to analyze data from the **Vehicle Sales** dataset and conduct a Sales Performance Analysis.
 
 The dataset used for this project, referred to as **Vehicle Sales**, contains sales data for various types of vehicles across multiple countries. It includes information about sales of different types of vehicles, such as classic cars, motorcycles, planes, ships, and trains & buses, in various markets across North America, Europe, and Asia.
 
