@@ -32,6 +32,7 @@ You can also interact with the interactive dashboard I designed for this project
 
 ![](report1.jpg)
 ![](report2.jpg)
+
 The dashboard provides a comprehensive view of the sales performance, including key metrics like Total Sales, Average Sales, Average Price for Each Sale, and Average Quantity Ordered. It also displays the top sale and order countries, sales trend over time, and product line distribution.
 
 ## Conclusion
